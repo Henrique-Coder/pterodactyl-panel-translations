@@ -4,10 +4,10 @@
 __pycache__
 
 # Directories
-# ...
+.debug
 
 # Files
 requirements.txt
 
 # Extensions
-*.py
+# ...
